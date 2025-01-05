@@ -1,11 +1,4 @@
-# ---------------------------------------------------------------------------- #
-#                                                                              #
-# 	Module:       main.py                                                      #
-# 	Author:       yulania                                                      #
-# 	Created:      1/5/2025, 10:50:55 AM                                        #
-# 	Description:  V5 project                                                   #
-#                                                                              #
-# ---------------------------------------------------------------------------- #
+
 #region VEXcode Generated Robot Configuration
 from vex import *
 import random
